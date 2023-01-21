@@ -10,4 +10,4 @@
 *See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/CovidDashboard_16736844286160/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)**<br />
 *Review the SQL Script:* **[HERE](./covidanalysis.sql)**<br />
 
-![Instagram Clone Dashboard](images/covidvisual.png)
+![Covid Data exploration Dashboard](images/covidvisual.png)
